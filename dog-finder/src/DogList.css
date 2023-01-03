@@ -1,0 +1,17 @@
+.DogList {
+  display: flex;
+}
+
+.DogList-Item {
+  width: 200px;
+  max-height: 500px;
+  margin: 10px;
+}
+.DogList-Item img {
+  width: 200px;
+  object-fit: scale-down;
+}
+
+.DogList-Item h4 {
+  text-decoration: none;
+}

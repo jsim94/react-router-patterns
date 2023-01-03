@@ -1,0 +1,9 @@
+.DogDetails {
+  display: flex;
+}
+
+.DogDetails img {
+  width: 200px;
+  object-fit: scale-down;
+  margin-inline-end: 10px;
+}
